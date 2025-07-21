@@ -1,12 +1,19 @@
-🧙‍♂️ USBmagi-exe – Exécutable magique USB
-USBmagi-exe est une petite application Windows conçue pour automatiser certaines tâches ou lancer un script dès qu'une clé USB est insérée.
-Elle a été pensée pour être simple, légère et rapide à utiliser, sans dépendances compliquées.
+# 🧙‍♂️ USBmagi-exe – Exécutable magique USB
 
-✨ Fonctions principales :
-Détection automatique de l'insertion d'une clé USB
+**USBmagi-exe** est une petite application Windows conçue pour automatiser certaines tâches ou lancer un script dès qu'une clé USB est insérée.
 
-Exécution d’une tâche personnalisée (script, fichier, etc.)
+## ✨ Fonctions principales :
+- Détection automatique de l'insertion d'une clé USB  
+- Exécution d’une tâche personnalisée (script, fichier, etc.)  
+- Interface simple à utiliser  
+- Fichier `.exe` prêt à l’emploi sans installation
 
-Interface utilisateur simple (ou en ligne de commande selon la version)
+## 📦 À venir :
+- Interface graphique (GUI)  
+- Support de plusieurs langues  
+- Sécurité améliorée
 
-Fichier .exe prêt à être utilisé sans installation
+## 🔧 Comment utiliser :
+Téléchargez simplement `USBmagi.exe` et exécutez-le. Aucune installation nécessaire.
+
+## 📁 Structure :
